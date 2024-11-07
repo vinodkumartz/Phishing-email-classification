@@ -34,5 +34,25 @@ The dataset used for this project contains labeled emails with a binary classifi
 
 You can install the required packages using:
 
-```bash
+
+pip install -r requirements.txt
+
+------------
+# Email Spam Detection and Phishing Email Classification
+
+## Description
+This project implements Natural Language Processing (NLP) techniques to detect spam emails and classify phishing emails using advanced machine learning models. It utilizes RoBERTa for enhanced accuracy in identifying malicious content.
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Models Used](#models-used)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+To get started with this project, clone the repository and install the required dependencies. You can do this using pip:
+
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
 pip install -r requirements.txt
